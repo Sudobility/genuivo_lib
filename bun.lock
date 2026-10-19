@@ -6,9 +6,9 @@
       "name": "@sudobility/genuivo_lib",
       "devDependencies": {
         "@eslint/js": "^9.38.0",
-        "@sudobility/genuivo_client": "^0.0.29",
-        "@sudobility/genuivo_types": "^0.0.18",
-        "@sudobility/types": "^1.9.67",
+        "@sudobility/genuivo_client": "^0.0.30",
+        "@sudobility/genuivo_types": "^0.0.19",
+        "@sudobility/types": "^1.9.68",
         "@tanstack/react-query": "^5.90.5",
         "@testing-library/react": "^16.3.2",
         "@testing-library/react-hooks": "^8.0.1",
@@ -29,8 +29,8 @@
         "zustand": "^5.0.8",
       },
       "peerDependencies": {
-        "@sudobility/genui_types": "^0.0.2",
-        "@sudobility/types": "^1.9.67",
+        "@sudobility/genui_types": "^0.0.3",
+        "@sudobility/types": "^1.9.68",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
         "zustand": ">=5.0.0",
@@ -144,11 +144,11 @@
 
     "@sudobility/genui_types": ["@sudobility/genui_types@0.0.1", "", {}, "sha512-upYoJVpy2y+cgIW2TwJtMuPhxzis42Dk5X6UtViTSh61GwnWofwK2atXsOrtDXPFj9vMrxJOVEOEu8UDR90p7g=="],
 
-    "@sudobility/genuivo_client": ["@sudobility/genuivo_client@0.0.29", "", { "peerDependencies": { "@sudobility/genui_types": "^0.0.2", "@sudobility/types": "^1.9.67", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-fPvRn/ZP6/4R0iAFDQqvj4N8DIPLNdCOjh4PDKRZ5LPokW5Z+qq1oh7RyKGs0KxIh3sCKFXiAkRK4oXBmbLt3A=="],
+    "@sudobility/genuivo_client": ["@sudobility/genuivo_client@0.0.30", "", { "peerDependencies": { "@sudobility/genui_types": "^0.0.3", "@sudobility/types": "^1.9.68", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-ExhCt0SUeJ7LUQqZZ582wU8uxgXyBZEEu1qJ964KTNdNocYn6oOZEG/LtATYCBMTcshEjTCT2t2EORUvzGbZeg=="],
 
-    "@sudobility/genuivo_types": ["@sudobility/genuivo_types@0.0.18", "", { "peerDependencies": { "@sudobility/genui_types": "^0.0.2", "@sudobility/types": "^1.9.67" } }, "sha512-WYmFKRa5Vfl231M/COF5dNZNHz4U6BoaAgDojIQm+2+FcSvZk5g+QmJqEAT2H29h2F7GBkXTAVSlPAJh976a9g=="],
+    "@sudobility/genuivo_types": ["@sudobility/genuivo_types@0.0.19", "", { "peerDependencies": { "@sudobility/genui_types": "^0.0.3", "@sudobility/types": "^1.9.68" } }, "sha512-P/BlUQ4bWYU/03zXshaZgEdRszl+c2zgGqIsdVIzCu3DTdOwuDYIVw+ynKnu21Of6I4mV47qqnA+GDt7xyw23w=="],
 
-    "@sudobility/types": ["@sudobility/types@1.9.67", "", {}, "sha512-d+jk4L9i8VNvOnCJW/craqiiUTPH5aRq4KYe/QBrBU3mCcTfoYjgzzXopVQRcthiZ5dwQAEpdqCTQ0gAWRN6Ww=="],
+    "@sudobility/types": ["@sudobility/types@1.9.68", "", {}, "sha512-4LL5+UfcqQcc0PKKR/z/PqS6j9DQPVkkjL+3oOW+Bwx0TAu1SVKAlPhlt/9ruNMW+abcHuZoFvbOVD5gdYBSGw=="],
 
     "@tanstack/query-core": ["@tanstack/query-core@5.99.0", "", {}, "sha512-3Jv3WQG0BCcH7G+7lf/bP8QyBfJOXeY+T08Rin3GZ1bshvwlbPt7NrDHMEzGdKIOmOzvIQmxjk28YEQX60k7pQ=="],
 
