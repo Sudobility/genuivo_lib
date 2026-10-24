@@ -6,8 +6,8 @@
       "name": "@sudobility/genuivo_lib",
       "devDependencies": {
         "@eslint/js": "~9.39.5",
-        "@sudobility/genuivo_client": "^0.0.33",
-        "@sudobility/genuivo_types": "^0.0.20",
+        "@sudobility/genuivo_client": "^0.0.34",
+        "@sudobility/genuivo_types": "^0.0.23",
         "@sudobility/types": "^1.9.76",
         "@tanstack/react-query": "~5.104.5",
         "@testing-library/react": "~16.3.3",
@@ -146,9 +146,9 @@
 
     "@sudobility/genui_types": ["@sudobility/genui_types@0.0.4", "https://npm.pkg.github.com/download/@sudobility/genui_types/0.0.4/129e8dd665db7e25d934fdd494e0ab672e8f8822", {}, "sha512-Rmyrh3JmtjHMDOvu5cJqwsnVY2QyNleJR9Esvu3XV7BswQfX4OQeByGpPHsz6dezZD4n9sN1xZbdIwx8pxuS6Q=="],
 
-    "@sudobility/genuivo_client": ["@sudobility/genuivo_client@0.0.33", "https://npm.pkg.github.com/download/@sudobility/genuivo_client/0.0.33/d167c5bb98aca4124d2365db4e7139a493400ce0", { "peerDependencies": { "@sudobility/genui_types": "^0.0.5", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-MjBRtmlTAeGHge0SlUVZ0hllkYVpo3q6iE/xTixbDhB8e8njBN6CNja36rYtrXX2iM1IKhGNpupaQi23oB9WZQ=="],
+    "@sudobility/genuivo_client": ["@sudobility/genuivo_client@0.0.34", "https://npm.pkg.github.com/download/@sudobility/genuivo_client/0.0.34/4ad79655c3fd1165d77356c28ce6f0e65dcf2a44", { "peerDependencies": { "@sudobility/genui_types": "^0.0.5", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-KxCUponoc/+ryGVF6U8Y31/pspVymEMsYuRJhUMjKYQUd5xS0R+1EAzXUvJH5obr+s1ykzCoKdd88w34fRWzyg=="],
 
-    "@sudobility/genuivo_types": ["@sudobility/genuivo_types@0.0.20", "https://npm.pkg.github.com/download/@sudobility/genuivo_types/0.0.20/ddb365f8a8215aa10c5f0233c9a39ea5677e121c", { "peerDependencies": { "@sudobility/genui_types": "^0.0.4", "@sudobility/types": "^1.9.72" } }, "sha512-ZtQporKBnEvkhza+XKu4qdy2OJQThWoyCH18lczlRqk1z4nibWL2kpSWJe9B2Am+5cQ2sMp7JiQqIsHTe5OUEA=="],
+    "@sudobility/genuivo_types": ["@sudobility/genuivo_types@0.0.23", "https://npm.pkg.github.com/download/@sudobility/genuivo_types/0.0.23/8db005dcdcd494f94e47e0326a48194762b39e60", { "peerDependencies": { "@sudobility/genui_types": "^0.0.5", "@sudobility/types": "^1.9.76" } }, "sha512-yJtKyFYzS4xd/ZG3uki/8Tu09jfP1gJJVK3fENe86XkkthU5exoQNbWatVzTWD6ZGe7JQv/M89n05GD6lnSN6w=="],
 
     "@sudobility/types": ["@sudobility/types@1.9.76", "https://npm.pkg.github.com/download/@sudobility/types/1.9.76/71635156f72fd9461107d5f147b3dc1c49f863d0", {}, "sha512-b7maZHR5wM84VlQ+l9R+2guzSOrExog6OUNy1oCe7h0abW13syycmnLQL0g+qql0aQ84qTB4A0mJelhY3Vef4Q=="],
 
